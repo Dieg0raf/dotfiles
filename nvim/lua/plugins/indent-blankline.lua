@@ -1,0 +1,28 @@
+return {
+  -- "lukas-reineke/indent-blankline.nvim",
+  -- main = "ibl",
+  -- ---@module "ibl"
+  -- ---@type ibl.config
+  -- config = function()
+  --   require("ibl").setup({
+  --     indent = {
+  --       char = "┆",
+  --       -- show_trailing_blankline_indent = false,
+  --       -- char = "┊",
+  --     },
+  --     scope = {
+  --       enabled = false,
+  --       show_start = false,
+  --       show_end = false,
+  --     },
+  --     exclude = {
+  --       filetypes = { "help", "alpha", "dashboard", "lazy" },
+  --       buftypes = { "terminal", "nofile", "quickfix", "prompt" },
+  --     },
+  --     whitespace = {
+  --       highlight = { "Whitespace", "NonText" },
+  --       remove_blankline_trail = true,
+  --     },
+  --   })
+  -- end,
+}
